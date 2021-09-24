@@ -87,7 +87,7 @@ public class FrmLogin extends JFrame {
 	
 	private JTextField txtClave;
 	
-	
+		/*TEXTO DE PRUEBA 04 XDDDDD*/
 	void registrar() {
 		
 	}
